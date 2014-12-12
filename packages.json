@@ -8,7 +8,7 @@
         "socket.io": "0.9.16"
     },
     "scripts": {
-        "start": "node ChatServer.js"
+        "start": "node server.js"
     },
-    "main": "ChatServer.js"
+    "main": "server.js"
 }
